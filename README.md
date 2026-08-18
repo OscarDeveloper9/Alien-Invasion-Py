@@ -1,5 +1,8 @@
 # 👾 Alien Invasion
 
+<img width="1362" height="762" alt="Inicio" src="https://github.com/user-attachments/assets/9fcbb569-2a8e-40de-bd26-91dc731a77be" />
+
+
 Juego arcade estilo *Space Invaders* desarrollado en **Python** con la librería **Pygame**. Proyecto creado como práctica de programación orientada a objetos (POO), manejo de eventos, colisiones y estructura de proyectos en Python.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
